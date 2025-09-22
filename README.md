@@ -1,5 +1,5 @@
 <h1 align="center">Yahallo! 👋, I'm Miku</h1>
-📝 I’m currently learning **C and C++**
+- 📝 I’m currently learning **C and C++**
 
 <p align="left">
 </p>
