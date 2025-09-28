@@ -70,6 +70,9 @@ I usually don't answer on Sundays.</p>
 <p align="center"><a href="https://discord.com/users/424502395607842826" target="_blank"><img src="https://img.shields.io/badge/My%20Discord-white?style=for-the-badge&logo=discord&logoColor=white&color=%23283272"/></a> <a href="https://discord.gg/nDVddTHFG6" target="_blank"><img src="https://img.shields.io/badge/Discord%20Server-white?style=for-the-badge&logo=discord&logoColor=white&color=blue"/></a></p>
 </div>
 <br>
+
+<p>ㅤ</p>
+
 <div>
 <h2 align="center">🖤 𝙈𝙚 𝙖𝙣𝙙 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜: 🖤</h2>
 <div align="center">
